@@ -11,9 +11,7 @@ export default function Home() {
       </div>
 
       {/* feed container */}
-      <div className="w-[82vw]">
-
-      </div>
+      
       
     </div>
   );
